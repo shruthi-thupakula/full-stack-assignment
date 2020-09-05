@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "csv-parser": "^2.3.3",
+    "fs": "^0.0.1-security",
+    "graphql-yoga": "1.18.3"
+  }
+}
