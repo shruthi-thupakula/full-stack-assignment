@@ -12,7 +12,7 @@ Local Setup
 1. Clone the repository
    Clone the repository using following command
    ```sh
-   git clone github.com/shruthi-thuapakula/full-stack-assignment
+   git clone https://github.com/shruthi-thupakula/full-stack-assignment.git
    ```
 2. Install the dependencies
 
